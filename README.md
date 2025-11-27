@@ -1,10 +1,9 @@
 # QATEST
-# CloudQA Automation Tests  
+  
 **Technologies:** C#, .NET 10, Selenium WebDriver, NUnit  
 **Author:** Surya Yeturu  
 
-This repository contains three automated UI tests developed as part of the **CloudQA Developer Internship** assignment.  
-The tests interact with the CloudQA Automation Practice Form and are designed to remain stable even when HTML structure or element positions change.
+This repository contains three automated UI tests developed. 
 
 ---
 
